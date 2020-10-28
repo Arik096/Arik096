@@ -1,6 +1,7 @@
 ### Hi there, I'm Arik Md Isthiaque 👋 👋 👋
 
-## I'm a Leraner, Developer and a Teacher!!
+## I'm a Learner, Developer and a Teacher!!
+
 <!--
 **Arik096/Arik096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

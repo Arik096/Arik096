@@ -2,7 +2,7 @@
 
 ## I'm a Learner, Developer and a Teacher!!
 
-<a target="_blank" href="/"><img width="550" align="right" src="https://image.freepik.com/free-vector/modern-flat-vector-illustration-teamwork-project_97843-123.jpg"></a>
+<a target="_blank" href="/"><align="right" src="https://elearningindustry.com/wp-content/uploads/2014/12/shutterstock_158869706.jpg"></a>
 
 <!--
 **Arik096/Arik096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

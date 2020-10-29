@@ -2,7 +2,7 @@
 
 ## I'm a Learner, Developer and a Teacher!!
 
-<a target="_blank" href="/"><img width="200" align="right" src="https://i0.wp.com/reachinghighernh.org/wp-content/uploads/2018/07/competency-portfolio-learning.png?fit=460%2C300&ssl=1"></a>
+<a target="_blank" href="/"><img width="300" align="right" src="https://i0.wp.com/reachinghighernh.org/wp-content/uploads/2018/07/competency-portfolio-learning.png?fit=460%2C300&ssl=1"></a>
 
 <!--
 **Arik096/Arik096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

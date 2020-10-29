@@ -2,7 +2,7 @@
 
 ## I'm a Learner, Developer and a Teacher!!
 
-<a target="_blank" href="/"><img width="550" align="right" src="https://site-content.saleshood.com/wp-content/uploads/2014/05/05185218/learning-culture.gif"></a>
+<a target="_blank" href="/"><img width="550" align="right" src="https://image.freepik.com/free-vector/modern-flat-vector-illustration-teamwork-project_97843-123.jpg"></a>
 
 <!--
 **Arik096/Arik096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

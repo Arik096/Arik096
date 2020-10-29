@@ -2,7 +2,7 @@
 
 ## I'm a Learner, Developer and a Teacher!!
 
-<a target="_blank" href="/"><img width="550" align="right" src="https://library.kissclipart.com/20181213/hte/kissclipart-ed-tech-clipart-epale-adult-education-a2c39bf4a8bdbe23.jpg"></a>
+<a target="_blank" href="/"><img width="550" align="right" src="https://pineapplesupport.org/wp-content/uploads/2020/04/learning.jpg"></a>
 
 <!--
 **Arik096/Arik096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

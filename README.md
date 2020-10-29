@@ -2,6 +2,8 @@
 
 ## I'm a Learner, Developer and a Teacher!!
 
+<a target="_blank" href="/"><img width="550" align="right" src="https://cdn.pixabay.com/photo/2018/08/18/13/27/browser-3614768__340.png"></a>
+
 <!--
 **Arik096/Arik096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -17,20 +17,52 @@
 <img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-256.png">
 <img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png">
 
-<br>
-<br>
+<br/>
+<br/>
+
 ### {backend}: 
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
+<img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-256.png">
 
+<br/>
+<br/>
 
-<br>
-<br>
-### {frontend}: 
+### {frontend}:
+<img align="left" width="50px" src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png">
+<img align="left" width="50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png">
+<img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/233_Node_Js_logo-256.png">
+
+<br/>
+<br/>
 ### {databases}: 
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+
+
+<br/>
+<br/>
 ### {frameworks}: 
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+
+
+<br/>
+<br/>
 ### {IDE, tools}:
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+
+
+<br/>
+<br/>

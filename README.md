@@ -70,13 +70,3 @@
 <img align="left" width="50px" src="https://w7.pngwing.com/pngs/429/863/png-transparent-autocad-2015-autodesk-computer-icons-autocad-architecture-design-angle-triangle-autocad.png">
 <img align="left" width="50px" src="https://e7.pngegg.com/pngimages/797/59/png-clipart-matlab-simulink-signal-processing-programming-language-logo-cube-island-online-survival-3d-logo-computer-wallpaper.png">
 
-<br/>
-<br/>
-
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">

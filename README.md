@@ -66,8 +66,10 @@
 <img align="left" width="50px" src="https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/How-to-Setup-a-Python-Environment-for-Machine-Learning-and-Deep-Learning-with-Anaconda.png">
 <img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-256.png">
 <img align="left" width="50px" src="https://cdn1.iconfinder.com/data/icons/thin-electronic-parts-components/24/thin_arduino-256.png">
+
 <br/>
 <br/>
+
 <img align="left" width="50px" src="https://p1.hiclipart.com/preview/231/14/357/acer-logo-vmware-esxi-benq-w1070-acer-h6510bd-hyperv-multimedia-projectors-television-vmware-vsphere-png-clipart.jpg">
 <img align="left" width="50px" src="https://p1.hiclipart.com/preview/940/726/365/macos-app-icons-autodesk-autocad-png-icon.jpg">
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png">

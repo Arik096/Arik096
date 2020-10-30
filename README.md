@@ -75,3 +75,5 @@
 <img align="left" width="50px" src="https://p1.hiclipart.com/preview/940/726/365/macos-app-icons-autodesk-autocad-png-icon.jpg">
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png">
 
+
+<img src="https://github-readme-stats.vercel.app/api?Arik096&show_icons=true">

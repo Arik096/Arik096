@@ -4,7 +4,7 @@
 
 ## I'm a Learner, Developer and a Teacher!!
 
-<img width="300" align="right" src="https://i0.wp.com/reachinghighernh.org/wp-content/uploads/2018/07/competency-portfolio-learning.png?fit=460%2C300&ssl=1">
+<img width="300" align="right" src="https://emoji.gg/assets/emoji/9109_Sad_Cat_Thumbs_Up.png">
 
 
 

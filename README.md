@@ -67,7 +67,8 @@
 <img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-256.png">
 <img align="left" width="50px" src="https://cdn1.iconfinder.com/data/icons/thin-electronic-parts-components/24/thin_arduino-256.png">
 <br/>
-<img align="left" width="50px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/vmware-512.png">
-<img align="left" width="50px" src="https://w7.pngwing.com/pngs/429/863/png-transparent-autocad-2015-autodesk-computer-icons-autocad-architecture-design-angle-triangle-autocad.png">
-<img align="left" width="50px" src="https://e7.pngegg.com/pngimages/797/59/png-clipart-matlab-simulink-signal-processing-programming-language-logo-cube-island-online-survival-3d-logo-computer-wallpaper.png">
+<br/>
+<img align="left" width="50px" src="https://p1.hiclipart.com/preview/231/14/357/acer-logo-vmware-esxi-benq-w1070-acer-h6510bd-hyperv-multimedia-projectors-television-vmware-vsphere-png-clipart.jpg">
+<img align="left" width="50px" src="https://p1.hiclipart.com/preview/940/726/365/macos-app-icons-autodesk-autocad-png-icon.jpg">
+<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png">
 

@@ -44,8 +44,8 @@
 
 ### {frameworks}: 
 <img align="left" width="50px" src="https://www.seekicon.com/free-icon-download/tensorflow-icon_2.svg">
-<img align="left" width="50px" src="https://keras.io/img/logo.png">
-<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Tesseract_OCR_logo_%28Google%29.png">
+<img align="left" width="100px" src="https://keras.io/img/logo.png">
+<img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Tesseract_OCR_logo_%28Google%29.png">
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/390px-OpenCV_Logo_with_text_svg_version.svg.png">
 
 <br/>

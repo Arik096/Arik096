@@ -61,6 +61,8 @@
 <img align="left" width="50px" src="https://mpng.subpng.com/20180619/oju/kisspng-phpstorm-jetbrains-webstorm-php-5b28f2c008a9c0.9825465415294102400355.jpg">
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png">
 <img align="left" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg">
+<br/>
+<br/>
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png">
 <img align="left" width="50px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png">
 <img align="left" width="50px" src="https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/How-to-Setup-a-Python-Environment-for-Machine-Learning-and-Deep-Learning-with-Anaconda.png">

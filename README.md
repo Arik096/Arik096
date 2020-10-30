@@ -61,7 +61,7 @@
 <img align="left" width="50px" src="https://mpng.subpng.com/20180619/oju/kisspng-phpstorm-jetbrains-webstorm-php-5b28f2c008a9c0.9825465415294102400355.jpg">
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png">
 <img align="left" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg">
-<img align="left" width="50px" src="https://mspoweruser.com/wp-content/uploads/2019/06/Windows-Terminal-Logo.jpg">
+<img align="left" width="100px" src="https://mspoweruser.com/wp-content/uploads/2019/06/Windows-Terminal-Logo.jpg">
 <br/>
 <br/>
 <br/>

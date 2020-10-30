@@ -73,8 +73,8 @@
 <img align="left" width="50px" src="https://cdn1.iconfinder.com/data/icons/thin-electronic-parts-components/24/thin_arduino-256.png">
 
 <img align="left" width="50px" src="https://p1.hiclipart.com/preview/231/14/357/acer-logo-vmware-esxi-benq-w1070-acer-h6510bd-hyperv-multimedia-projectors-television-vmware-vsphere-png-clipart.jpg">
-<img align="left" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/autodesk-282208.png">
-<img align="left" width="50px" src="https://p7.hiclipart.com/preview/75/390/503/matlab-mathworks-simulink-logo-computer-software-informatica.jpg">
+<img align="left" width="50px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Autodesk-Autocad-icon.png">
+<img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png">
 <img align="left" width="50px" src="https://waikato.github.io/weka-site/images/weka.png">
 <img align="left" width="50px" src="https://c7.uihere.com/files/196/91/583/balsamiq-mockup-website-wireframe-computer-icons-user-interface-mockups-logo.jpg">
 <br/>

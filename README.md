@@ -74,6 +74,7 @@
 <img align="left" width="50px" src="https://p1.hiclipart.com/preview/231/14/357/acer-logo-vmware-esxi-benq-w1070-acer-h6510bd-hyperv-multimedia-projectors-television-vmware-vsphere-png-clipart.jpg">
 <img align="left" width="50px" src="https://p1.hiclipart.com/preview/940/726/365/macos-app-icons-autodesk-autocad-png-icon.jpg">
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png">
+<img align="left" width="50px" src="https://www.nicepng.com/png/detail/980-9800360_weka-icon.png">
 
 <br/>
 <br/>

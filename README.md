@@ -41,6 +41,7 @@
 
 <br/>
 <br/>
+
 ### {frameworks}: 
 <img align="left" width="50px" src="https://www.seekicon.com/free-icon-download/tensorflow-icon_2.svg">
 <img align="left" width="50px" src="https://keras.io/img/logo.png">
@@ -49,6 +50,7 @@
 
 <br/>
 <br/>
+
 ### {IDE, tools}:
 <img align="left" width="50px" src="">
 <img align="left" width="50px" src="">

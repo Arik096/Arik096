@@ -52,13 +52,31 @@
 <br/>
 
 ### {IDE, tools}:
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-
+<img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png">
+<img align="left" width="50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-256.png">
+<img align="left" width="50px" src="https://img.favpng.com/9/8/24/code-blocks-computer-icons-computer-programming-png-favpng-NNvF6c8G4SQU7XhrKs8t5iq8U.jpg">
+<img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/pixomania/128/science-256.png">
+<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
+<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png">
+<img align="left" width="50px" src="https://mpng.subpng.com/20180619/oju/kisspng-phpstorm-jetbrains-webstorm-php-5b28f2c008a9c0.9825465415294102400355.jpg">
+<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png">
+<img align="left" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg">
+<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png">
+<img align="left" width="50px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png">
+<img align="left" width="50px" src="https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/How-to-Setup-a-Python-Environment-for-Machine-Learning-and-Deep-Learning-with-Anaconda.png">
+<img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-256.png">
+<img align="left" width="50px" src="https://cdn1.iconfinder.com/data/icons/thin-electronic-parts-components/24/thin_arduino-256.png">
+<img align="left" width="50px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/vmware-512.png">
+<img align="left" width="50px" src="https://w7.pngwing.com/pngs/429/863/png-transparent-autocad-2015-autodesk-computer-icons-autocad-architecture-design-angle-triangle-autocad.png">
+<img align="left" width="50px" src="https://e7.pngegg.com/pngimages/797/59/png-clipart-matlab-simulink-signal-processing-programming-language-logo-cube-island-online-survival-3d-logo-computer-wallpaper.png">
 
 <br/>
 <br/>
+
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">
+<img align="left" width="50px" src="">

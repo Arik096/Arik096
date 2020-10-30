@@ -11,7 +11,7 @@
 # My Stacks
 
 ### {languages}: 
-<img align="left"width="50px" src="https://cdn3.iconfinder.com/data/icons/programming-16/512/programming_6_00001-2-256.png">
+<img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/programming-16/512/programming_6_00001-2-256.png">
 
 
 

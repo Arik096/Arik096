@@ -54,7 +54,7 @@
 ### {IDE, tools}:
 <img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png">
 <img align="left" width="50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-256.png">
-<img align="left" width="50px" src="https://img.favpng.com/9/8/24/code-blocks-computer-icons-computer-programming-png-favpng-NNvF6c8G4SQU7XhrKs8t5iq8U.jpg">
+<img align="left" width="50px" src="https://cdn.imgbin.com/23/0/1/imgbin-code-blocks-c-computer-programming-computer-icons-others-LmSw8X2ccrL6AEXaNumE7zuqR.jpg">
 <img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/pixomania/128/science-256.png">
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png">

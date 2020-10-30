@@ -33,19 +33,16 @@
 
 <br/>
 <br/>
-### {databases}: 
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
-<img align="left" width="50px" src="">
 
+### {databases}: 
+<img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-256.png">
+<img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png">
+<img align="left" width="50px" src="https://cdn0.iconfinder.com/data/icons/file-format-database-j-fill/64/database_file_document-56-256.png">
 
 <br/>
 <br/>
 ### {frameworks}: 
-<img align="left" width="50px" src="">
+<img align="left" width="50px" src="https://www.seekicon.com/free-icon-download/tensorflow-icon_2.svg">
 <img align="left" width="50px" src="">
 <img align="left" width="50px" src="">
 <img align="left" width="50px" src="">

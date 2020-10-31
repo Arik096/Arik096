@@ -12,9 +12,9 @@
 
 ### {languages}: 
 <img align="left" width="50px" src="https://icon-library.com/images/icon-c/icon-c-26.jpg">
-<img align="left" width="50px" src="https://mir-s3-cdn-cf.behance.net/projects/404/40c17736846019.Y3JvcCw0NDcsMzUwLDEsMA.png">
-<img align="left" width="50px" src="https://cdn2.iconfinder.com/data/icons/well-known-1/1024/Java-256.png">
-<img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-256.png">
+<img align="left" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<img align="left" width="50px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">
+<img align="left" width="50px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png">
 <img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png">
 <img align="left" width="100px" src="https://miro.medium.com/max/3020/1*ZT-uARoKO0dd4Wq6tc3W2A.png">
 <img align="left" width="100px" src="https://bayanbox.ir/view/3224762451474771935/SAMAVi-Assembly.jpg">

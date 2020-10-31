@@ -23,17 +23,15 @@
 <br/>
 
 ### {backend}: 
-<img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-256.png">
+<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
 
-<br/>
-<br/>
 <br/>
 <br/>
 
 ### {frontend}:
 <img align="left" width="50px" src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png">
 <img align="left" width="50px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
-<img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/233_Node_Js_logo-256.png">
+<img align="left" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
 
 <br/>
 <br/>

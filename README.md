@@ -103,5 +103,5 @@
 <br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arik096&theme=light&hide_langs_below=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arik096&theme=light&hide_langs_below=0" />
 <img src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true">

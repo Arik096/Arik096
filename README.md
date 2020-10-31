@@ -19,10 +19,14 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 ### {backend}: 
 <img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-256.png">
 
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -31,6 +35,8 @@
 <img align="left" width="50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png">
 <img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/233_Node_Js_logo-256.png">
 
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -51,6 +57,8 @@
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/390px-OpenCV_Logo_with_text_svg_version.svg.png">
 <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/OpenGL_logo_%28Nov14%29.svg/1280px-OpenGL_logo_%28Nov14%29.svg.png">
 
+<br/>
+<br/>
 <br/>
 <br/>
 

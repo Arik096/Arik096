@@ -103,6 +103,6 @@
 <br/>
 
 
-<img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arik096&theme=light&hide_langs_below=0&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<img width="1000" src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img width="1000" src="https://github-readme-stats.vercel.app/api/wakatime?username=arik096&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arik096&theme=light&hide_langs_below=0&layout=compact" />
+<img width="1000" src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true">
+<img width="1000" src="https://github-readme-stats.vercel.app/api/wakatime?username=arik096">

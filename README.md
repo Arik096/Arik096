@@ -17,7 +17,7 @@
 <img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-256.png">
 <img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png">
 <img align="left" width="100px" src="https://miro.medium.com/max/3020/1*ZT-uARoKO0dd4Wq6tc3W2A.png">
-<img align="left" width="50px" src="https://bayanbox.ir/view/3224762451474771935/SAMAVi-Assembly.jpg">
+<img align="left" width="100px" src="https://bayanbox.ir/view/3224762451474771935/SAMAVi-Assembly.jpg">
 
 <br/>
 <br/>

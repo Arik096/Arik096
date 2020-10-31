@@ -12,7 +12,7 @@
 
 ### {languages}: 
 <img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/programming-16/512/programming_6_00001-2-256.png">
-<img align="left" width="50px" src="https://cdn2.iconfinder.com/data/icons/pretty-office-part14-2/256/C_blue-256.png">
+<img align="left" width="50px" src="https://mir-s3-cdn-cf.behance.net/projects/404/40c17736846019.Y3JvcCw0NDcsMzUwLDEsMA.png">
 <img align="left" width="50px" src="https://cdn2.iconfinder.com/data/icons/well-known-1/1024/Java-256.png">
 <img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-256.png">
 <img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png">
@@ -34,7 +34,7 @@
 
 ### {frontend}:
 <img align="left" width="50px" src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png">
-<img align="left" width="50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png">
+<img align="left" width="50px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
 <img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/233_Node_Js_logo-256.png">
 
 <br/>
@@ -105,12 +105,12 @@
 <br/>
 
 ### {Operating Systems}:
-<img align="left" width="100px" src="https://www.clipartmax.com/png/middle/240-2400718_windows-xp-start-icon.png">
-<img align="left" width="100px" src="https://img.favpng.com/10/11/19/sonic-generations-windows-7-microsoft-windows-operating-systems-png-favpng-wfZS0pEnQ3Nha9QMXxnpjC3WH.jpg">
+<img align="left" width="100px" src="https://www.clipartmax.com/png/middle/189-1893750_free-windows-xp-logo-transparent-background-windows-xp-icon-png.png">
+<img align="left" width="100px" src="https://img.favpng.com/18/11/8/windows-7-logo-windows-vista-png-favpng-YjyLW1gVzXf7bdsYeU1jsLLxV.jpg">
 <img align="left" width="100px" src="https://www.pinclipart.com/picdir/big/256-2569914_windows-8-icon-clipart.png">
 <img align="left" width="50px" src="https://banner2.cleanpng.com/20180328/skq/kisspng-logo-windows-8-windows-7-microsoft-8-5abc1c77a59fe7.0872489215222774956784.jpg">
 <img align="left" width="50px" src="https://icons.iconarchive.com/icons/martz90/circle/512/ubuntu-icon.png">
-<img align="left" width="100px" src="https://img.favpng.com/10/14/4/kali-linux-android-png-favpng-U9jzWaZVgP9nmnbnA1wkcZFf5.jpg">
+<img align="left" width="100px" src="https://www.freepngimg.com/download/android/68988-kali-android-linux-free-clipart-hq.png">
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png">
 <img align="left" width="50px" src="https://www.fosshub.com/media/img/project/icons/5b8fc29a59eee027c3d78bc8.png">
 

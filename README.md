@@ -102,4 +102,8 @@
 <br/>
 <br/>
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+<br/>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true">

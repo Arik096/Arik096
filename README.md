@@ -16,6 +16,7 @@
 <img align="left" width="50px" src="https://cdn2.iconfinder.com/data/icons/well-known-1/1024/Java-256.png">
 <img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-256.png">
 <img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png">
+<img align="left" width="50px" src="https://plugins.jetbrains.com/files/13954/93201/icon/pluginIcon.png">
 
 <br/>
 <br/>

@@ -11,7 +11,7 @@
 # My Stacks
 
 ### {languages}: 
-<img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/programming-16/512/programming_6_00001-2-256.png">
+<img align="left" width="50px" src="https://icon-library.com/images/icon-c/icon-c-26.jpg">
 <img align="left" width="50px" src="https://mir-s3-cdn-cf.behance.net/projects/404/40c17736846019.Y3JvcCw0NDcsMzUwLDEsMA.png">
 <img align="left" width="50px" src="https://cdn2.iconfinder.com/data/icons/well-known-1/1024/Java-256.png">
 <img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-256.png">

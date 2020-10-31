@@ -17,7 +17,7 @@
 <img align="left" width="50px" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-256.png">
 <img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png">
 <img align="left" width="100px" src="https://miro.medium.com/max/3020/1*ZT-uARoKO0dd4Wq6tc3W2A.png">
-<img align="left" width="100px" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png">
+<img align="left" width="50px" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png">
 
 <br/>
 <br/>
@@ -99,12 +99,24 @@
 <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg">
 <img align="left" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1SulhXiNgLdf4tcKRp5KtK1kJ1pmyflRulw&usqp=CAU">
 
-
 <br/>
 <br/>
 <br/>
 <br/>
 
+### {Operating Systems}:
+<img align="left" width="50px" src="https://www.clipartmax.com/png/middle/240-2400718_windows-xp-start-icon.png">
+<img align="left" width="50px" src="https://img.favpng.com/10/11/19/sonic-generations-windows-7-microsoft-windows-operating-systems-png-favpng-wfZS0pEnQ3Nha9QMXxnpjC3WH.jpg">
+<img align="left" width="50px" src="https://www.pinclipart.com/picdir/big/256-2569914_windows-8-icon-clipart.png">
+<img align="left" width="50px" src="https://icons.iconarchive.com/icons/martz90/circle/512/ubuntu-icon.png">
+<img align="left" width="50px" src="https://img.favpng.com/10/14/4/kali-linux-android-png-favpng-U9jzWaZVgP9nmnbnA1wkcZFf5.jpg">
+<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png">
+<img align="left" width="50px" src="https://www.fosshub.com/media/img/project/icons/5b8fc29a59eee027c3d78bc8.png">
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 <img width="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arik096&theme=light&hide_langs_below=0&layout=compact" />
 <img width="700" src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true">

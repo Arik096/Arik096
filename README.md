@@ -105,12 +105,12 @@
 <br/>
 
 ### {Operating Systems}:
-<img align="left" width="100px" src="https://www.clipartmax.com/png/middle/189-1893750_free-windows-xp-logo-transparent-background-windows-xp-icon-png.png">
-<img align="left" width="100px" src="https://img.favpng.com/18/11/8/windows-7-logo-windows-vista-png-favpng-YjyLW1gVzXf7bdsYeU1jsLLxV.jpg">
-<img align="left" width="100px" src="https://www.pinclipart.com/picdir/big/256-2569914_windows-8-icon-clipart.png">
+<img align="left" width="50px" src="https://www.clipartmax.com/png/middle/189-1893750_free-windows-xp-logo-transparent-background-windows-xp-icon-png.png">
+<img align="left" width="50px" src="https://img.favpng.com/18/11/8/windows-7-logo-windows-vista-png-favpng-YjyLW1gVzXf7bdsYeU1jsLLxV.jpg">
+<img align="left" width="50px" src="https://www.pinclipart.com/picdir/big/256-2569914_windows-8-icon-clipart.png">
 <img align="left" width="50px" src="https://banner2.cleanpng.com/20180328/skq/kisspng-logo-windows-8-windows-7-microsoft-8-5abc1c77a59fe7.0872489215222774956784.jpg">
 <img align="left" width="50px" src="https://icons.iconarchive.com/icons/martz90/circle/512/ubuntu-icon.png">
-<img align="left" width="100px" src="https://www.freepngimg.com/download/android/68988-kali-android-linux-free-clipart-hq.png">
+<img align="left" width="50px" src="https://www.freepngimg.com/download/android/68988-kali-android-linux-free-clipart-hq.png">
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png">
 <img align="left" width="50px" src="https://www.fosshub.com/media/img/project/icons/5b8fc29a59eee027c3d78bc8.png">
 

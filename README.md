@@ -11,6 +11,8 @@
 # My Stacks
 
 ### {languages}: 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
 <div style="display:grid; grid-template-columns:auto auto auto; padding:5px;">
   <div style="padding:5px;"><img align="centre" width="50px" src="https://icon-library.com/images/icon-c/icon-c-26.jpg"></div>
   <div style="padding:5px;"><img align="centre" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></div>

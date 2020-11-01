@@ -12,17 +12,18 @@
 
 ### {languages}: 
 | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-<div style="display:grid; grid-template-columns:auto auto auto; padding:5px;">
-  <div style="padding:5px;"><img align="centre" width="50px" src="https://icon-library.com/images/icon-c/icon-c-26.jpg"></div>
-  <div style="padding:5px;"><img align="centre" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></div>
-  <div style="padding:5px;"><img align="centre" width="50px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></div>  
-  <div style="padding:5px;"><img align="centre" width="50px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png"></div>
-  <div style="padding:5px;"><img align="centre" width="50px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-php-software-develop-command-language-512.png"></div>
-  <div style="padding:5px;"><img align="centre" width="50px" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png"></div>  
-  <div style="padding:5px;"><img align="centre" width="100px" src="https://miro.medium.com/max/3020/1*ZT-uARoKO0dd4Wq6tc3W2A.png"></div>
-</div>
+|<img align="centre" width="50px" src="https://icon-library.com/images/icon-c/icon-c-26.jpg">|<img align="centre" width="50px" src="https://icon-library.com/images/icon-c/icon-c-26.jpg">|<img align="centre" width="50px" src="https://icon-library.com/images/icon-c/icon-c-26.jpg">|
 
+<img align="centre" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<img align="centre" width="50px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">
+<img align="centre" width="50px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png">
+<img align="centre" width="50px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-php-software-develop-command-language-512.png">
+<img align="centre" width="50px" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png">
+<br/>
+<br/>
+<br/>
+<br/>
+<img align="centre" width="100px" src="https://miro.medium.com/max/3020/1*ZT-uARoKO0dd4Wq6tc3W2A.png">
 <br/>
 <br/>
 

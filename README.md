@@ -24,30 +24,17 @@
 ### {frontend}:
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img align="centre" width="50px" src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png">|<img align="centre" width="50px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">|<img align="centre" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
-|
+|<img align="centre" width="50px" src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png">|<img align="centre" width="50px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">|<img align="centre" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">|
 
 ### {databases}: 
-<img align="left" width="100px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-256.png">
-<img align="left" width="100px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png">
-<img align="left" width="50px" src="https://cdn0.iconfinder.com/data/icons/file-format-database-j-fill/64/database_file_document-56-256.png">
-
-<br/>
-<br/>
-<br/>
-<br/>
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img align="left" width="100px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-256.png">|<img align="left" width="100px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png">|<img align="left" width="50px" src="https://cdn0.iconfinder.com/data/icons/file-format-database-j-fill/64/database_file_document-56-256.png">|
 
 ### {frameworks}: 
-<img align="left" width="50px" src="https://www.seekicon.com/free-icon-download/tensorflow-icon_2.svg">
-<img align="left" width="100px" src="https://keras.io/img/logo.png">
-<img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Tesseract_OCR_logo_%28Google%29.png">
-<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/390px-OpenCV_Logo_with_text_svg_version.svg.png">
-<img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/OpenGL_logo_%28Nov14%29.svg/1280px-OpenGL_logo_%28Nov14%29.svg.png">
-
-<br/>
-<br/>
-<br/>
-<br/>
+| | | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img align="left" width="50px" src="https://www.seekicon.com/free-icon-download/tensorflow-icon_2.svg">|<img align="left" width="100px" src="https://keras.io/img/logo.png">|<img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Tesseract_OCR_logo_%28Google%29.png">|<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/390px-OpenCV_Logo_with_text_svg_version.svg.png">|<img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/OpenGL_logo_%28Nov14%29.svg/1280px-OpenGL_logo_%28Nov14%29.svg.png">|
 
 ### {IDE, tools}:
 <img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png">

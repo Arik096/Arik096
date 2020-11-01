@@ -11,8 +11,8 @@
 # My Stacks
 
 ### {languages}: 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
+| | | | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img align="centre" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">|<img align="centre" width="50px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">|<img align="centre" width="50px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png">|
 |<img align="centre" width="50px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-php-software-develop-command-language-512.png">|<img align="centre" width="50px" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png">|<img align="centre" width="100px" src="https://miro.medium.com/max/3020/1*ZT-uARoKO0dd4Wq6tc3W2A.png">|
 
@@ -29,12 +29,12 @@
 ### {databases}: 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img align="left" width="100px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-256.png">|<img align="left" width="100px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png">|<img align="left" width="50px" src="https://cdn0.iconfinder.com/data/icons/file-format-database-j-fill/64/database_file_document-56-256.png">|
+|<img align="centre" width="100px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-256.png">|<img align="centre" width="100px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png">|<img align="centre" width="50px" src="https://cdn0.iconfinder.com/data/icons/file-format-database-j-fill/64/database_file_document-56-256.png">|
 
 ### {frameworks}: 
 | | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img align="left" width="50px" src="https://www.seekicon.com/free-icon-download/tensorflow-icon_2.svg">|<img align="left" width="100px" src="https://keras.io/img/logo.png">|<img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Tesseract_OCR_logo_%28Google%29.png">|<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/390px-OpenCV_Logo_with_text_svg_version.svg.png">|<img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/OpenGL_logo_%28Nov14%29.svg/1280px-OpenGL_logo_%28Nov14%29.svg.png">|
+|<img align="centre" width="50px" src="https://www.seekicon.com/free-icon-download/tensorflow-icon_2.svg">|<img align="centre" width="100px" src="https://keras.io/img/logo.png">|<img align="centre" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Tesseract_OCR_logo_%28Google%29.png">|<img align="centre" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/390px-OpenCV_Logo_with_text_svg_version.svg.png">|<img align="centre" width="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/OpenGL_logo_%28Nov14%29.svg/1280px-OpenGL_logo_%28Nov14%29.svg.png">|
 
 ### {IDE, tools}:
 <img align="left" width="50px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png">

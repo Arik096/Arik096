@@ -19,18 +19,13 @@
 ### {backend}: 
 | | 
 |:-------------------------:|
-|<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">|
-
+|<img align="centre" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">|
 
 ### {frontend}:
-<img align="left" width="50px" src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png">
-<img align="left" width="50px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
-<img align="left" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
-
-<br/>
-<br/>
-<br/>
-<br/>
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img align="centre" width="50px" src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png">|<img align="centre" width="50px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">|<img align="centre" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
+|
 
 ### {databases}: 
 <img align="left" width="100px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-256.png">

@@ -17,7 +17,12 @@ backend: ["laravel"],
 frontEnd: ["Html", "CSS", "JS", "Vue.js"],
 frameWork: ["Tensorflow", "Keras", "Tesseract", "OpenCV", "OpenGL"],
 dataBases: ["MySQL", "Oracle", "SqLite"],
-tools: ["CodeBlocks", "Atom", "VScode", "NetBeans", "PyCharm", "PhpStorm", "CLion", "Terminal", "Spyder", "Andriod Studio", "Anaconda", "Raspberry Pi", "Arduino", "VMware", "AutoDesk", "MatLab", "Weka", "Balsamiq", "Figma", "shell", "fish", "Latex", "BisKits"],
+tools: ["CodeBlocks", "Atom", "VScode", "NetBeans", 
+        "PyCharm", "PhpStorm", "CLion", "Terminal", 
+        "Spyder", "Andriod Studio", "Anaconda", "Raspberry Pi", 
+        "Arduino", "VMware", "AutoDesk", "MatLab", "Weka", 
+        "Balsamiq", "Figma", "shell", "fish", "Latex", 
+        "BisKits"],
 VCS: ["Git", "Bitbucket","GitHub"],
 };
 ```

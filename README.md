@@ -4,8 +4,7 @@
 
 ## I'm a Learner, Developer and a Teacher!!
 
-
-<video playsinline="true" width="100%" style="object-fit: cover;" autoplay="true" muted="true" loop="true" preload="auto"><source src="https://shujog.isocial.com.bd/wp-content/uploads/2021/02/Mobile-App-Screen-Video-1.mp4" type="video/mp4">Sorry, your browser doesn't support embedded videos.</video>
+<img width="300" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fallhtaccess.info%2F25-gif-images-related-to-programming%2F&psig=AOvVaw1OovGy4JLHp5C9ZD88b199&ust=1613065346992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDRtOzu3-4CFQAAAAAdAAAAABAD">
 
 
 

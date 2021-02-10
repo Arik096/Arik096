@@ -11,16 +11,14 @@
 # My Stacks
 
 ```js
-const myStacks = {
-  languages: ["C", "C++", "Java", "php", "Python",  "Assembly", "SWI Prolog"],
-  technologies: {
-      backend: ["laravel"]
-      frontEnd: ["Html", "CSS", "JS", "Vue.js"],
-      frameWork: ["Tensorflow", "Keras", "Tesseract", "OpenCV", "OpenGL"],
-      dataBases: ["MySQL", "Oracle", "SqLite"],
-      tools: ["CodeBlocks", "Atom", "VScode", "NetBeans", "PyCharm", "PhpStorm", "CLion", "Terminal", "Spyder", "Andriod Studio", "Anaconda", "Raspberry Pi", "Arduino", "VMware", "AutoDesk", "MatLab", "Weka", "Balsamiq", "Figma", "shell", "fish", "Latex", "BisKits"],
-      VCS: ["Git", "Bitbucket","GitHub"],
-  }
+{
+languages: ["C", "C++", "Java", "php", "Python",  "Assembly", "SWI Prolog"],
+backend: ["laravel"],
+frontEnd: ["Html", "CSS", "JS", "Vue.js"],
+frameWork: ["Tensorflow", "Keras", "Tesseract", "OpenCV", "OpenGL"],
+dataBases: ["MySQL", "Oracle", "SqLite"],
+tools: ["CodeBlocks", "Atom", "VScode", "NetBeans", "PyCharm", "PhpStorm", "CLion", "Terminal", "Spyder", "Andriod Studio", "Anaconda", "Raspberry Pi", "Arduino", "VMware", "AutoDesk", "MatLab", "Weka", "Balsamiq", "Figma", "shell", "fish", "Latex", "BisKits"],
+VCS: ["Git", "Bitbucket","GitHub"],
 };
 ```
 <p align="center">

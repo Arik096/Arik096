@@ -14,19 +14,18 @@
 const myStacks = {
   languages: ["C", "C++", "Java", "php", "Python",  "Assembly", "SWI Prolog"],
   technologies: {
-      Backend: ["laravel"]
+      backend: ["laravel"]
       frontEnd: ["Html", "CSS", "JS", "Vue.js"],
       frameWork: ["Tensorflow", "Keras", "Tesseract", "OpenCV", "OpenGL"],
       dataBases: ["MySQL", "Oracle", "SqLite"],
-      tools: ["VS Code", "Android Studio", "PyCharm", "IntelliJ IDEA", "CodeBlocks"],
-      VCS: ["Git"],
+      tools: ["CodeBlocks", "Atom", "VScode", "NetBeans", "PyCharm", "PhpStorm", "CLion", "Terminal", "Spyder", "Andriod Studio", "Anaconda", "Raspberry Pi", "Arduino", "VMware", "AutoDesk", "MatLab", "Weka", "Balsamiq", "Figma", "shell", "fish", "Latex", "BisKits"],
+      VCS: ["Git", "Bitbucket","GitHub"],
   }
 };
 ```
-
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arik096&theme=light&hide_langs_below=0&layout=compact&langs_count=20" />
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true">
 <p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arik096&theme=light&hide_langs_below=0&layout=compact&langs_count=20" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true">
   <img alig src="https://github-profile-trophy.vercel.app/?username=arik096&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p
 

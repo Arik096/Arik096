@@ -4,9 +4,9 @@
 
 ## I'm a Learner, Developer and a Teacher!!
 
-<img width="300" align="right" src="https://www.google.com/url?sa=i&url=https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1">
-
-
+<img width="300" align="right" src="https://github.com/Arik096/Arik096/blob/main/programming%20(1).gif">
+https://github.com/Arik096/Arik096/blob/main/programming%20(1).gif
+![alt-text](https://github.com/Arik096/Arik096/blob/main/programming%20(1).gif)
 
 # My Stacks
 

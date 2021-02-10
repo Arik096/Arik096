@@ -4,7 +4,7 @@
 
 ## I'm a Learner, Developer and a Teacher!!
 
-<img width="300" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fallhtaccess.info%2F25-gif-images-related-to-programming%2F&psig=AOvVaw1OovGy4JLHp5C9ZD88b199&ust=1613065346992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDRtOzu3-4CFQAAAAAdAAAAABAD">
+<img width="300" align="right" src="https://www.google.com/url?sa=i&url=https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1">
 
 
 

@@ -10,8 +10,22 @@
 
 # My Stacks
 
-<img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arik096&theme=light&hide_langs_below=0&layout=compact&langs_count=20" />
-<img width="1000" src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true">
+```js
+const myStacks = {
+  languages: ["C", "C++", "Java", "php", "Python",  "Assembly", "SWI Prolog"],
+  technologies: {
+      Backend: ["laravel"]
+      frontEnd: ["Html", "CSS", "JS", "Vue.js"],
+      frameWork: ["Tensorflow", "Keras", "Tesseract", "OpenCV", "OpenGL"],
+      dataBases: ["MySQL", "Oracle", "SqLite"],
+      tools: ["VS Code", "Android Studio", "PyCharm", "IntelliJ IDEA", "CodeBlocks"],
+      VCS: ["Git"],
+  }
+};
+```
+
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arik096&theme=light&hide_langs_below=0&layout=compact&langs_count=20" />
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true">
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=arik096&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p

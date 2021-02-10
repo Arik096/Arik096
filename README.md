@@ -4,7 +4,8 @@
 
 ## I'm a Learner, Developer and a Teacher!!
 
-<img width="300" align="right" src="https://emoji.gg/assets/emoji/9109_Sad_Cat_Thumbs_Up.png">
+
+<video playsinline="true" width="100%" style="object-fit: cover;" autoplay="true" muted="true" loop="true" preload="auto"><source src="https://shujog.isocial.com.bd/wp-content/uploads/2021/02/Mobile-App-Screen-Video-1.mp4" type="video/mp4">Sorry, your browser doesn't support embedded videos.</video>
 
 
 

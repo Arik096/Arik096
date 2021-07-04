@@ -38,6 +38,7 @@ VCS: ["Git", "Bitbucket","GitHub"],
   <p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true"></p>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arik096&" alt="arik" /></p>
   <p align="center"><img align="center" padding="5px" src="https://github-profile-trophy.vercel.app/?username=arik096&column=5&rank=SSS,SS,S,AAA,AA,A,B,C" /></p>
+  <p align="center">https://activity-graph.herokuapp.com/graph?username=arik096&theme=react-dark&hide_border=true&area=true</p>
 </p
 
 

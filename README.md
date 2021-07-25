@@ -3,12 +3,15 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1DA1F2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arik1155001/)
 <img src="https://komarev.com/ghpvc/?username=arik096&label=Profile%20views&color=brightgreen&style=flat" alt="arik" /> </p>
 
-## Works As a Software Engineer <img width="100" align="right" src="https://github.com/Arik096/Arik096/blob/main/unnamed (1).jpg">
+## Works As a Software Engineer 
+<br>
+<img width="100" align="right" src="https://github.com/Arik096/Arik096/blob/main/unnamed (1).jpg">
+<img width="100" align="right" src="https://github.com/Arik096/Arik096/blob/main/unnamed (1).jpg">
 
 
 ## I'm a Learner, Developer and a Teacher!!!
 
-<img width="450" align="center" src="https://github.com/Arik096/Arik096/blob/main/programming%20(1).gif">
+<img width="450" align="center" src="https://github.com/Arik096/Arik096/blob/main/2712982_original.jpg">
 
 # My Stacks
 

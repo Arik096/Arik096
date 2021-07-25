@@ -3,6 +3,9 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1DA1F2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arik1155001/)
 <img src="https://komarev.com/ghpvc/?username=arik096&label=Profile%20views&color=brightgreen&style=flat" alt="arik" /> </p>
 
+## Works As a Software Engineer 
+
+
 ## I'm a Learner, Developer and a Teacher!!!
 
 <img width="450" align="right" src="https://github.com/Arik096/Arik096/blob/main/programming%20(1).gif">

@@ -3,7 +3,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1DA1F2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arik1155001/)
 <img src="https://komarev.com/ghpvc/?username=arik096&label=Profile%20views&color=brightgreen&style=flat" alt="arik" /> </p>
 
-## Works As a Software Engineer 
+## Works As a Software Engineer <img width="200" align="left" src="https://github.com/Arik096/Arik096/blob/main/unnamed (1).jpg">
 
 
 ## I'm a Learner, Developer and a Teacher!!!

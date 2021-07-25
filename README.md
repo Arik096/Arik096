@@ -8,7 +8,7 @@
 
 ## I'm a Learner, Developer and a Teacher!!!
 
-<img width="450" align="right" src="https://github.com/Arik096/Arik096/blob/main/programming%20(1).gif">
+<img width="450" align="center" src="https://github.com/Arik096/Arik096/blob/main/programming%20(1).gif">
 
 # My Stacks
 

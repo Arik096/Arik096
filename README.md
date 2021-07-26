@@ -10,7 +10,7 @@
 <img width="100" src="https://github.com/Arik096/Arik096/blob/main/2712982_original.jpg">
 
 
-## I'm a Learner, Developer and a Teacher!!!
+## I'm a Learner, Developer and a Teacher!!
 
 <img width="450" align="center" src="https://github.com/Arik096/Arik096/blob/main/programming (1).gif">
 

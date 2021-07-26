@@ -8,6 +8,7 @@
 
 <img width="100" align="right" src="https://github.com/Arik096/Arik096/blob/main/unnamed (1).jpg">
 <img width="100" align="right" src="https://github.com/Arik096/Arik096/blob/main/2712982_original.jpg">
+<hr>
 
 ## I'm a Learner, Developer and a Teacher!!!
 

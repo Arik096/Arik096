@@ -6,7 +6,7 @@
 
 ## Works As a Software Engineer
 
-<img width="100" src="https://github.com/Arik096/Arik096/blob/main/MicrosoftTeams-image.png">
+<img width="100" src="https://github.com/Arik096/Arik096/blob/main/MicrosoftTeams-image (2).png">
 
 
 ## I'm a Learner, Developer and a Teacher!!!

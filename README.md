@@ -6,7 +6,7 @@
 
 ## Works As a Software Engineer at iSocial Limited
 
-<img width="150" src="https://github.com/Arik096/Arik096/blob/main/MicrosoftTeams-image (2).png">
+<img width="150" src="code.gif">
 
 
 ## I'm a Learner, a Developer and a NOOB!!

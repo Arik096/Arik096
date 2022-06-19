@@ -6,12 +6,12 @@
 
 ## Works As a Software Engineer at iSocial Limited
 
-<img width="150" src="code.gif">
+<img width="150" src="[code.gif](https://github.com/Arik096/Arik096/blob/main/MicrosoftTeams-image (2).png)">
 
 
 ## I'm a Learner, a Developer and a NOOB!!
 
-<img width="450" align="center" src="https://github.com/Arik096/Arik096/blob/main/programming (1).gif">
+<img width="450" align="center" src="code.gif">
 
 # My Stacks
 

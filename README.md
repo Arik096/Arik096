@@ -34,6 +34,7 @@ VCS: ["Git", "Bitbucket","GitHub"],
 ```
 
 <p align="center">
+            <p align="center"><img width="1000" src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arik096&theme=vue](https://api.githubtrends.io/user/svg/Arik096/langs?time_range=one_year&theme=classic)" /></p>
             <p align="center"><img width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arik096&theme=vue" /></p>
   <p align="center"><img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arik096&theme=light&hide_langs_below=0&layout=compact&langs_count=20" /></p>
   <p align="center"><p align="center"><img width="600" src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true"></p>

@@ -9,7 +9,7 @@
 <img width="150" src="https://github.com/Arik096/Arik096/blob/main/MicrosoftTeams-image (2).png">
 
 
-## I'm a Learner, a Developer and a NOOB!!!
+## I'm a Learner, a Developer and a NOOB!!
 
 <img width="450" align="center" src="code.gif">
 
